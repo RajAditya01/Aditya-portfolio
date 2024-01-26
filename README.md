@@ -68,7 +68,7 @@ This project was created using the following technologies.
 - Github: [berthutapea](https://github.com/berthutapea)
 - Sponsor: [berthutapea](https://saweria.co/berthutapea)
 - Linkedin: [gilberthutapea](https://www.linkedin.com/in/gilberthutapea/)
-- Email: [berthutapea@gmail.com](mailto:berthutapea@gmail.com)
+- Email: [adityavishal903@gmail.com](mailto:adityavishal903@gmail.com)
 
 ## License
 

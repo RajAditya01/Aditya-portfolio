@@ -37,7 +37,8 @@ const Education = () => {
               <p className="text-sm text-neutral font-semibold">2021 - 2025</p>
             </div>
             <p className="text-sm text-neutral text-justify">
-              I am currently studying in Informatics Engineering (4th Semester) at Sekolah Tinggi Teknologi Informatika Sony Sugema, Karawang, Jawa Barat, Indonesia
+              I am currently studying in Computer Science Engineering (6th Semester) at Maharishi Markandeshwar
+(DEEMED TO BE UNIVERSITY), Ambala, Haryana, India
             </p>
           </div>
 

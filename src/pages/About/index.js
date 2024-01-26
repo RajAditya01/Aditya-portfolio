@@ -36,7 +36,7 @@ const About = () => {
             }}
           >
             <img
-              src="https://res.cloudinary.com/du541igfh/image/upload/v1683035791/Blog%20Portfolio%20Gilbert/Project/berthutapea.com/GilbertHutapea_qjy2gq.png"
+              src="https://console.cloudinary.com/pm/c-9fdcb72aceb831492a4d40de23cb8e/media-explorer?assetId=0cef3f8509f5813fb6fdbffb36d5df66"
               alt="Aditya Raj"
               className="p-12 w-70 h-70 transform translate-y-[-12%]"
               title="Aditya Raj"
@@ -103,7 +103,7 @@ const About = () => {
                 <span className="mr-2 text-primary">Address : </span>MMDU Mullana Ambala Haryana
               </h2>
               <a
-                href="https://drive.google.com/file/d/19rnbukAhf9oPhadMhsvI3xnWF6FIYeMT/view?usp=share_link"
+                href=""
                 target="blank"
               >
                 <div className="flex justify-center md:justify-start translate-y-[60%] sm:translate-y-[-0%]">

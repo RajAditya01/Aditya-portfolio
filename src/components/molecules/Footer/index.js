@@ -113,7 +113,7 @@ const Footer = () => {
               className="text-primary hover:underline"
               target="blank"
             >
-              Gilbert Hutapea
+              Aditya Raj
             </a>
           </p>
         </div>

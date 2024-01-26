@@ -63,7 +63,7 @@ const About = () => {
                   2000,
                   "A Full-stack Developer",
                   2000,
-                  "A Front-end Developer",
+                  "A competitive programmer",
                   2000
                 ]}
                 wrapper="div"

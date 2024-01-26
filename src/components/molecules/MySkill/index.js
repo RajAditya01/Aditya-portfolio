@@ -37,7 +37,7 @@ const MySkill = () => {
   const tools = [
     { title: "MongoDB", icon: <SiMongodb className="text-green-500" /> },
     { title: "GitHub", icon: <FaGithub className="text-black" /> },
-    { title: "Firebase", icon: <SiFirebase className="text-yellow-500" /> },
+
     {
       title: "Photoshop",
       icon: <SiAdobephotoshop className="text-cyan-800" />,

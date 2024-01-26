@@ -1,5 +1,5 @@
 {
-  "short_name": "berthutapea",
+  "short_name": "Raj",
   "name": "Aditya Raj | Portfolio",
   "icons": [
     {
@@ -8,12 +8,12 @@
       "type": "image/x-icon"
     },
     {
-      "src": "logo192.png",
+      "src": "apple-touch-icon.png",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "logo512.png",
+      "src": "apple-touch-icon.png",
       "type": "image/png",
       "sizes": "512x512"
     }

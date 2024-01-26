@@ -36,7 +36,8 @@ const About = () => {
             }}
           >
             <img
-              src="https://console.cloudinary.com/pm/c-9fdcb72aceb831492a4d40de23cb8e/media-explorer?assetId=0cef3f8509f5813fb6fdbffb36d5df66"
+              src="https://res.cloudinary.com/ddjk9ccx5/image/upload/v1706253252/xd4ywz4wcz9qjllokuum.jpg"
+              
               alt="Aditya Raj"
               className="p-12 w-70 h-70 transform translate-y-[-12%]"
               title="Aditya Raj"

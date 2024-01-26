@@ -11,17 +11,10 @@ const Footer = () => {
         style={{ backgroundColor: "#313131" }}
       >
         <div className="flex items-center justify-center mb-6">
+        
           <a
             className="inline-block mx-2"
-            href="https://twitter.com/GilbertHutapeaa"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <FaTwitter className="text-2xl text-blue-600" />
-          </a>
-          <a
-            className="inline-block mx-2"
-            href="https://linkedin.com/in/gilberthutapea"
+            href="https://www.linkedin.com/in/aditya-raj-aa923721a/"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -29,7 +22,7 @@ const Footer = () => {
           </a>
           <a
             className="inline-block mx-2"
-            href="https://www.github.com/berthutapea"
+            href="https://github.com/RajAditya01"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -37,7 +30,7 @@ const Footer = () => {
           </a>
           <a
             className="inline-block mx-2"
-            href="https://www.instagram.com/bethup97/"
+            href="https://www.instagram.com/_aadii.01/"
             target="_blank"
             rel="noopener noreferrer"
           >

@@ -53,9 +53,9 @@ This project was created using the following technologies.
 
  ##  Screenshots 
  
-![img-1](https://github.com/berthutapea/berthutapea-portfolio/assets/111676859/825edab2-ff3b-4c24-8a99-7bc2527bb758)
+![img-1](https://github.com/RajAditya01/berthutapea-portfolio/assets/111676859/825edab2-ff3b-4c24-8a99-7bc2527bb758)
 ---- -
-![img-2](https://github.com/berthutapea/berthutapea-portfolio/assets/111676859/b5ed935c-cc42-4d23-a2c7-765e90f198f1)
+![img-2](https://github.com/RajAditya01/berthutapea-portfolio/assets/111676859/b5ed935c-cc42-4d23-a2c7-765e90f198f1)
 --- - 
 ![img-3](https://user-images.githubusercontent.com/111676859/235824165-95c1e6b6-f3df-426e-816a-8c80a91d352d.png)
 --- - 
@@ -65,7 +65,7 @@ This project was created using the following technologies.
 
 ## Author
 - Portfolio: [berthutapea](https://berthutapea.vercel.app/)
-- Github: [berthutapea](https://github.com/berthutapea)
+- Github: [berthutapea](https://github.com/RajAditya01)
 - Sponsor: [berthutapea](https://saweria.co/berthutapea)
 - Linkedin: [gilberthutapea](https://www.linkedin.com/in/gilberthutapea/)
 - Email: [adityavishal903@gmail.com](mailto:adityavishal903@gmail.com)

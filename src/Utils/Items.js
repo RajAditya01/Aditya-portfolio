@@ -35,7 +35,7 @@ const Items = [
       "PT. MULIA SEJATI NUSANTARA Established on June 24, 2019, a limited liability company engaged in supplier & contractor services. Then on January 22 2022 PT. MULIA SEJATI NUSANTARA Opening a new business branch in the Technology Sector which includes Website Creation, Mobile Applications, Branding, Creative Content, Digital Marketing & Advertising. This branch is called Mulia Sejati Nusantara Production or in short MSN PRODUCTION.",
     category: "business",
     liveLink: "https://msnproduction.com/",
-    codeLink: "https://github.com/berthutapea/msnproduction.com",
+    codeLink: "https://github.com/RajAditya01/msnproduction.com",
   },
   {
     id: 2,
@@ -90,7 +90,7 @@ const Items = [
       "Fullstack open source blogging application made with MongoDB, Express, React & Nodejs (MERN)",
     category: "personal",
     liveLink: "https://berthutapea.vercel.app/mern-blog",
-    codeLink: "https://github.com/berthutapea/mern-blog-v2",
+    codeLink: "https://github.com/RajAditya01/mern-blog-v2",
   },
   {
     id: 3,
@@ -151,7 +151,7 @@ const Items = [
       "Fullstack open source movie application made with MongoDB, Express, React & Nodejs (MERN)",
     category: "personal",
     liveLink: "https://bertflix.vercel.app/",
-    codeLink: "https://github.com/berthutapea/mern-movie",
+    codeLink: "https://github.com/RajAditya01/mern-movie",
   },
   {
     id: 4,
@@ -223,7 +223,7 @@ const Items = [
       "Warehouse website with employee/employee management, add employee and job title options. Employee attendance data setting salary deductions and salary data. Print salary reports, attendance and salary data and many other features.",
     category: "business",
     liveLink: "https://berthutapea.vercel.app/employee-salary-management",
-    codeLink: "https://github.com/berthutapea/mern-employee-salary-management",
+    codeLink: "https://github.com/RajAditya01/mern-employee-salary-management",
   },
   {
     id: 5,
@@ -264,7 +264,7 @@ const Items = [
       "Fullstack open source student management system application made with MongoDB, Express, React & Nodejs (MERN)",
     category: "business",
     liveLink: "https://sttiss.vercel.app/",
-    codeLink: "https://github.com/berthutapea/mern-student-management-system",
+    codeLink: "https://github.com/RajAditya01/mern-student-management-system",
   },
   {
     id: 6,
@@ -294,7 +294,7 @@ const Items = [
       "Mario Jump is an endless running game inspired by the famous Google Chrome's T-Rex Dinosaur Game 🦖. The game is built entirely with ReactJS ⚛ and Redux Toolkit 🔧.",
     category: "game",
     liveLink: "https://mariojumpp.vercel.app/",
-    codeLink: "https://github.com/berthutapea/mario-jump-game",
+    codeLink: "https://github.com/RajAditya01/mario-jump-game",
   },
   {
     id: 7,
@@ -330,7 +330,7 @@ const Items = [
       "Fullstack open source quiz application",
     category: "personal",
     liveLink: "https://bertquiz.vercel.app/",
-    codeLink: "https://github.com/berthutapea/react-quiz",
+    codeLink: "https://github.com/RajAditya01/react-quiz",
   },
   {
     id: 8,
@@ -364,7 +364,7 @@ const Items = [
       "Open source landing page shopify application",
     category: "personal",
     liveLink: "https://shopifyy.vercel.app/",
-    codeLink: "https://github.com/berthutapea/react-shopify-landing",
+    codeLink: "https://github.com/RajAditya01/react-shopify-landing",
   },
 ];
 

@@ -37,65 +37,7 @@ const Footer = () => {
             <FaInstagram className="text-2xl text-pink-500" />
           </a>
         </div>
-        <div className="hidden  md:flex items-center justify-center mb-6 flex-wrap">
-          <a
-            className="text-xl inline-bloc mx-6 text-neutral"
-            href="https://www.fiverr.com/aadii0001?up_rollout=true"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Fiverr
-          </a>
-          <a
-            className="text-xl inline-bloc mx-6 text-neutral"
-            href="https://www.upwork.com/freelancers/~0171c0d54d5dea86ec"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            UpWork
-          </a>
-          <a
-            className="text-xl inline-bloc mx-6 text-neutral"
-            href="http://freelancer.com/u/berthutapea"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Freelancer
-          </a>
-          <a
-            className="text-xl inline-bloc mx-6 text-neutral"
-            href="https://themeforest.net/user/berthutapea"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            ThemeForest
-          </a>
-          <a
-            className="text-xl inline-bloc mx-6 text-neutral"
-            href="https://remotehub.com/gilbert.hutapea"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            RemoteHub
-          </a>
-          <a
-            className="text-xl inline-bloc mx-6 text-neutral"
-            href="https://dribbble.com/berthutapea"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Dribbble
-          </a>
-          <a
-            className="text-xl inline-bloc mx-6 text-neutral"
-            href="https://drive.google.com/file/d/19rnbukAhf9oPhadMhsvI3xnWF6FIYeMT/view?usp=share_link"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Resume
-          </a>
-        </div>
-
+      
         <div className="w-full h-[2px] bg-gray-600"></div>
         <div className="flex flex-col md:flex-row items-center justify-between mt-4">
           <p>&copy; Copyright All Rights Reserved {year.getFullYear()}</p>

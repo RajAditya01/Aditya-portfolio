@@ -102,7 +102,7 @@ const Footer = () => {
           <p>
             Developed by{" "}
             <a
-              href="https://linkedin.com/in/gilberthutapea"
+              href="https://www.linkedin.com/in/aditya-raj-aa923721a"
               className="text-primary hover:underline"
               target="blank"
             >

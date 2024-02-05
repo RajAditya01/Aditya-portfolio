@@ -28,15 +28,13 @@ const Education = () => {
             className="mx-auto lg:mr-auto"
           />
         </div>
-        <div className="mx-auto lg:ml-auto"> {/* Add a class name here */}
-          {/* Diploma */}
+        <div className="mx-auto lg:ml-auto">
+          {/* B-tech in CSE */}
           <div className="p-6 bg-[#313131] bg-opacity-90 backdrop-blur-lg rounded-lg shadow-lg inline-block w-[300px] hover:shadow-primary duration-300 cursor-pointer">
-            {/* ... */}
-          </div>
-
-          {/* React Developer */}
-          <div className="my-6 md:my-4 md:ml-[200px] p-6 bg-[#313131] bg-opacity-90 backdrop-blur-lg rounded-lg shadow-lg w-[300px] hover:shadow-primary duration-300 cursor-pointer">
-            {/* ... */}
+            <h2 className="text-2xl font-semibold text-white mb-4">B-Tech in CSE</h2>
+            <p className="text-gray-300">Maharishi Markandeshwar (Deemed to be University)</p>
+            <p className="text-gray-300">2021 - 2025</p>
+            {/* Add any additional information about your B-Tech here */}
           </div>
         </div>
       </div>

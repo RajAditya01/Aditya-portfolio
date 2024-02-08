@@ -54,36 +54,34 @@ const Items = [
 
   {
     id: 2,
-    mainImage: "https://example.com/path-to-main-image.png",
+    mainImage: "https://res.cloudinary.com/ddjk9ccx5/image/upload/v1707391657/pmojon5dpr5h2b9hdbkn.png",
     img: [
-      "https://example.com/image1.png",
-      "https://example.com/image2.png",
+      "https://res.cloudinary.com/ddjk9ccx5/image/upload/v1707391657/pmojon5dpr5h2b9hdbkn.png",
       // ... add more image URLs as needed
     ],
     features: [
-      "User-friendly CMS for content management",
-      "Interactive educational content delivery",
-      "User authentication and authorization",
-      "RESTful API for data communication",
-      "Integration with Tailwind CSS for modern styling",
-      // ... add more features as needed
+      "User Authentication with JWT",
+      "Course and Lesson Management",
+      "Progress Tracking for Students",
+      "Payment Integration with Razorpay",
+      "Search Functionality",
+      "Instructor Dashboard with Charts and Visualizations",
     ],
     technologies: [
       "React",
-      "React Hooks",
+      "NodeJS",
       "ExpressJS",
       "MongoDB",
-      "NodeJS",
-      "RESTful API",
-      "Tailwind CSS",
+      "JWT",
+      "Razorpay",
       // ... add more technologies as needed
     ],
-    title: "Educational Technology Website with CMS",
+    title: "Study Notion",
     description:
-      "A comprehensive educational technology website with a Content Management System (CMS) for managing and delivering interactive educational content.",
+      "ED Tech web application developed using the MERN stack for secure user authentication, course management, progress tracking, payment integration, and a feature-rich instructor dashboard.",
     category: "educational",
-    liveLink: "https://example.com/",
-    codeLink: "https://github.com/yourusername/your-repo",
+    liveLink: "https://study-notion-app.example.com/",
+    codeLink: "https://github.com/RajAditya01/EduSparkle",
   },
 
 ];

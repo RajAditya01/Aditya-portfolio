@@ -22,7 +22,7 @@ In order to run this project locally, simply fork and clone the repository or do
 In the first terminal
 
 ```
-$ cd berthutapea-portfolio
+$ cd aditya-portfolio
 $ npm install 
 $ npm run start
 ```
@@ -54,9 +54,9 @@ This project was created using the following technologies.
 
  ##  Screenshots 
  
-![img-1](https://github.com/RajAditya01/berthutapea-portfolio/assets/111676859/825edab2-ff3b-4c24-8a99-7bc2527bb758)
+![img-1](https://github.com/RajAditya01/aditya-portfolio/assets/111676859/825edab2-ff3b-4c24-8a99-7bc2527bb758)
 ---- -
-![img-2](https://github.com/RajAditya01/berthutapea-portfolio/assets/111676859/b5ed935c-cc42-4d23-a2c7-765e90f198f1)
+![img-2](https://github.com/RajAditya01/aditya-portfolio/assets/111676859/b5ed935c-cc42-4d23-a2c7-765e90f198f1)
 --- - 
 ![img-3](https://user-images.githubusercontent.com/111676859/235824165-95c1e6b6-f3df-426e-816a-8c80a91d352d.png)
 --- - 
@@ -65,10 +65,10 @@ This project was created using the following technologies.
 ![img-5](https://user-images.githubusercontent.com/111676859/235824168-a1028607-de4c-466a-8527-c05eedb1d6b0.png)
 
 ## Author
-- Portfolio: [berthutapea](https://berthutapea.vercel.app/)
-- Github: [berthutapea](https://github.com/RajAditya01)
-- Sponsor: [berthutapea](https://saweria.co/berthutapea)
-- Linkedin: [gilberthutapea](https://www.linkedin.com/in/gilberthutapea/)
+- Portfolio: [aditya](https://aditya.vercel.app/)
+- Github: [aditya](https://github.com/RajAditya01)
+- Sponsor: [aditya](https://saweria.co/aditya)
+- Linkedin: [giladitya](https://www.linkedin.com/in/giladitya/)
 - Email: [adityavishal903@gmail.com](mailto:adityavishal903@gmail.com)
 
 ## License

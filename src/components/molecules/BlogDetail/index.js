@@ -95,9 +95,9 @@ const BlogDetail = () => {
             Share :{" "}
           </h4>
           <div className="flex items-center gap-4 flex-wrap">
-            <EmailShareButton url={url} title="Aditya Raj ">
+            <ShareButton url={url} title="Aditya Raj ">
               <EmailIcon size={32} round={true} />
-            </EmailShareButton>
+            </ShareButton>
             <FacebookShareButton url={url} title="Aditya Raj ">
               <FacebookIcon size={32} round={true} />
             </FacebookShareButton>

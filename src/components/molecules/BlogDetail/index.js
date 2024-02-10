@@ -1,12 +1,14 @@
 import React from "react";
 import { useParams } from "react-router-dom";
 import placeholderImage from "../../../assets/placeholder.jpg";
+import { SiInstagram, SiLinkedin } from 'react-icons/si';
+
 import blogs from "../../../Utils/blogs";
 import { useState } from "react";
 import { useEffect } from "react";
 import { LazyLoadImage } from "react-lazy-load-image-component";
 import { FiExternalLink } from "react-icons/fi";
-import { SiLinkedin, SiInstagram } from "react-icons/si";
+import { ShareButton } from 'react-share';
 import {
   EmailShareButton,
   EmailIcon,
@@ -95,9 +97,9 @@ const BlogDetail = () => {
             Share :{" "}
           </h4>
           <div className="flex items-center gap-4 flex-wrap">
-            <ShareButton url={url} title="Aditya Raj ">
+            <EmailShareButton url={url} title="Aditya Raj ">
               <EmailIcon size={32} round={true} />
-            </ShareButton>
+            </EmailShareButton>
             <FacebookShareButton url={url} title="Aditya Raj ">
               <FacebookIcon size={32} round={true} />
             </FacebookShareButton>
@@ -110,6 +112,7 @@ const BlogDetail = () => {
             <WhatsappShareButton url={url} title="Aditya Raj ">
               <WhatsappIcon size={32} round={true} />
             </WhatsappShareButton>
+
           </div>
 
           <div className="w-full h-[1px] bg-neutral my-6"></div>

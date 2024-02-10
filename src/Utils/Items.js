@@ -54,9 +54,12 @@ const Items = [
 
   {
     id: 2,
-    mainImage: "https://res.cloudinary.com/ddjk9ccx5/image/upload/v1707391657/pmojon5dpr5h2b9hdbkn.png",
+    mainImage: "https://res.cloudinary.com/ddjk9ccx5/image/upload/v1707568969/Projects/Screenshot_2024-02-10_180541_hxktlm.png",
     img: [
-      "https://res.cloudinary.com/ddjk9ccx5/image/upload/v1707391657/pmojon5dpr5h2b9hdbkn.png",
+      "https://res.cloudinary.com/ddjk9ccx5/image/upload/v1707568969/Projects/Screenshot_2024-02-10_180541_hxktlm.png",
+      "https://res.cloudinary.com/ddjk9ccx5/image/upload/v1707568969/Projects/Screenshot_2024-02-10_180541_hxktlm.png",
+      "https://res.cloudinary.com/ddjk9ccx5/image/upload/v1707568972/Projects/Screenshot_2024-02-10_180525_qictaa.png",
+      "https://res.cloudinary.com/ddjk9ccx5/image/upload/v1707568975/Projects/Screenshot_2024-02-10_180324_colcso.pnghttps://res.cloudinary.com/ddjk9ccx5/image/upload/v1707568975/Projects/Screenshot_2024-02-10_180324_colcso.png",
       // ... add more image URLs as needed
     ],
     features: [
@@ -69,11 +72,25 @@ const Items = [
     ],
     technologies: [
       "React",
+      "React Hooks",
+      "React Icons",
+      "Axios",
+      "CSS",
+      "UUID",
       "NodeJS",
       "ExpressJS",
       "MongoDB",
-      "JWT",
+      "Mongoose",
+      "Express Asynsc Handler",
+      "Json Web Token",
+      "Bcryptjs",
+      "Nodemailer",
+      "Dontenv",
+      "Multer",
+      "Slugify",
+      "Cors",
       "Razorpay",
+
       // ... add more technologies as needed
     ],
     title: "Study Notion",
@@ -81,7 +98,7 @@ const Items = [
       "ED Tech web application developed using the MERN stack for secure user authentication, course management, progress tracking, payment integration, and a feature-rich instructor dashboard.",
     category: "educational",
     liveLink: "https://study-notion-app.example.com/",
-    codeLink: "https://github.com/RajAditya01/EduSparkle",
+    codeLink: "",
   },
 
 ];

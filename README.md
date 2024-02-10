@@ -1,31 +1,15 @@
 <h1 align ="center" >Aditya Raj | Portfolio</h1>
 
 <h5  align ="center"> 
-Dedicated Front-end developer. Capable to solve working problems. Passionate about learning & development to reach the target. Eager to tackle more complex problems and continue to find ways to maximize user efficiency. My next mission is how to become a Mern stack Developer. I would love to build some Giant Website which will shine myself. <br/> <a href="https://drive.google.com/file/d/16r18tc8RhGEiQoOGTTFvgZ0g46C_oQFe/view?usp=share_link">Resume 💼</a> </h5>
+Dedicated Full-Stack developer. Capable to solve working problems. Passionate about learning & development to reach the target. Eager to tackle more complex problems and continue to find ways to maximize user efficiency. My next mission is how to become a Mern stack Developer. I would love to build some Giant Website which will shine myself. <br/> </h5>
 <br/>
 
-  * [Configuration and Setup](#configuration-and-setup)
   * [Key Features](#key-features)
   * [Technologies used](#technologies-used)
   * [📸 Screenshots](#screenshots)
   * [Author](#author)
   * [License](#license)
 
-
-
-## Configuration and Setup
-
-In order to run this project locally, simply fork and clone the repository or download as zip and unzip on your machine.
-
-- Open the project in your prefered code editor.
-
-In the first terminal
-
-```
-$ cd aditya-portfolio
-$ npm install 
-$ npm run start
-```
 
 ##  Key Features
 
@@ -34,8 +18,6 @@ $ npm run start
 - Project 
 - Contact
 - Blog
-
-
 
 <br/>
 
@@ -54,28 +36,18 @@ This project was created using the following technologies.
 
  ##  Screenshots 
  
-![img-1](https://github.com/RajAditya01/aditya-portfolio/assets/111676859/825edab2-ff3b-4c24-8a99-7bc2527bb758)
----- -
-![img-2](https://github.com/RajAditya01/aditya-portfolio/assets/111676859/b5ed935c-cc42-4d23-a2c7-765e90f198f1)
---- - 
-![img-3](https://user-images.githubusercontent.com/111676859/235824165-95c1e6b6-f3df-426e-816a-8c80a91d352d.png)
---- - 
-![img-4](https://user-images.githubusercontent.com/111676859/235824167-224063d0-624a-4aaf-b27f-f4aa8b668511.png)
---- - 
-![img-5](https://user-images.githubusercontent.com/111676859/235824168-a1028607-de4c-466a-8527-c05eedb1d6b0.png)
 
 ## Author
-- Portfolio: [aditya](https://aditya.vercel.app/)
-- Github: [aditya](https://github.com/RajAditya01)
-- Sponsor: [aditya](https://saweria.co/aditya)
-- Linkedin: [giladitya](https://www.linkedin.com/in/giladitya/)
+- Portfolio: [Aditya Raj]
+- Github: [Aditya Raj](https://github.com/RajAditya01)
+- Linkedin: [Aditya Raj](https://www.linkedin.com/in/aditya-raj-aa923721a/)
 - Email: [adityavishal903@gmail.com](mailto:adityavishal903@gmail.com)
 
 ## License
 
 MIT License
 
-Copyright (c) 2022 Aditya Raj
+Copyright (c) 2024 Aditya Raj
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

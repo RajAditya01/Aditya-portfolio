@@ -10,7 +10,6 @@ Dedicated Full-Stack developer. Capable to solve working problems. Passionate ab
   * [Author](#author)
   * [License](#license)
 
-
 ##  Key Features
 
 - Home
@@ -35,7 +34,11 @@ This project was created using the following technologies.
 - [daisyUI  ](https://daisyui.com/docs/changelog/) - For User Interface
 
  ##  Screenshots 
- 
+ ![image](https://github.com/RajAditya01/Aditya-portfolio/assets/101439988/72691717-ed3b-4213-ba4d-a22a3b669e15)
+ ---- -
+ ![image](https://github.com/RajAditya01/Aditya-portfolio/assets/101439988/42d1197c-2a12-4fcc-a533-4c597e8abe31)
+---- -
+![image](https://github.com/RajAditya01/Aditya-portfolio/assets/101439988/e890c72c-723a-4653-b4c1-c31ca315b1b1)
 
 ## Author
 - Portfolio: [Aditya Raj]

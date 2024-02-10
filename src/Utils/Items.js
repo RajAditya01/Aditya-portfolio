@@ -98,7 +98,7 @@ const Items = [
       "ED Tech web application developed using the MERN stack for secure user authentication, course management, progress tracking, payment integration, and a feature-rich instructor dashboard.",
     category: "educational",
     liveLink: "https://study-notion-app.example.com/",
-    codeLink: "",
+    codeLink: "https://github.com/RajAditya01/StudyNotion-An-Online-Education-Platform",
   },
 
 ];

@@ -1,7 +1,7 @@
 <h1 align ="center" >Aditya Raj | Portfolio</h1>
 
 <h5  align ="center"> 
-Dedicated Full-Stack developer. Capable to solve working problems. Passionate about learning & development to reach the target. Eager to tackle more complex problems and continue to find ways to maximize user efficiency. My next mission is how to become a Mern stack Developer. I would love to build some Giant Website which will shine myself. <br/> </h5>
+Passionate Full-Stack Developer, Problem Solver, Lifelong Learner, and Efficiency Enthusiast – Embarking on a Journey to Craft a Remarkable Giant Website, Aiming to Illuminate My Skills and Achieve Excellence!. <br/> </h5>
 <br/>
 
   * [Key Features](#key-features)

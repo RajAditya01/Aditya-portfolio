@@ -60,6 +60,7 @@ const Items = [
       "https://res.cloudinary.com/ddjk9ccx5/image/upload/v1707568975/Projects/Screenshot_2024-02-10_180324_colcso.png",
       "https://res.cloudinary.com/ddjk9ccx5/image/upload/v1707568972/Projects/Screenshot_2024-02-10_180525_qictaa.png",
       "https://res.cloudinary.com/ddjk9ccx5/image/upload/v1707568965/Projects/Screenshot_2024-02-10_180252_sf67pu.png",
+      "https://res.cloudinary.com/ddjk9ccx5/image/upload/v1707626131/Projects/schema_xhug8x.png",
       // ... add more image URLs as needed
     ],
     features: [

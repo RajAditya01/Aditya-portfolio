@@ -38,7 +38,7 @@ const Education = () => {
               Maharishi Markandeshwar (Deemed to be University)
             </p>
             <p className="text-gray-300">2021 - 2025</p>
-            <p className="text-gray-300">CGPA: 9.03</p>
+            <p className="text-gray-300">CGPA: 9.03/10</p>
             {/* Add any additional information about your B-Tech here */}
           </div>
         </div>

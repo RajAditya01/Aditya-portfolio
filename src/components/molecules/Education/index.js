@@ -31,9 +31,14 @@ const Education = () => {
         <div className="mx-auto lg:ml-auto">
           {/* B-tech in CSE */}
           <div className="p-6 bg-[#313131] bg-opacity-90 backdrop-blur-lg rounded-lg shadow-lg inline-block w-[300px] hover:shadow-primary duration-300 cursor-pointer">
-            <h2 className="text-2xl font-semibold text-white mb-4">B-Tech in CSE</h2>
-            <p className="text-gray-300">Maharishi Markandeshwar (Deemed to be University)</p>
+            <h2 className="text-2xl font-semibold text-white mb-4">
+              B-Tech in CSE
+            </h2>
+            <p className="text-gray-300">
+              Maharishi Markandeshwar (Deemed to be University)
+            </p>
             <p className="text-gray-300">2021 - 2025</p>
+            <p className="text-gray-300">CGPA: 9.03</p>
             {/* Add any additional information about your B-Tech here */}
           </div>
         </div>

@@ -102,6 +102,55 @@ const Items = [
     codeLink: "https://github.com/RajAditya01/StudyNotion-An-Online-Education-Platform",
   },
 
+  {
+    id: 3,
+    mainImage: "https://res.cloudinary.com/ddjk9ccx5/image/upload/v1708609414/voiw7s2dcjua50rgtkpy.png",
+    img: [
+        "https://res.cloudinary.com/ddjk9ccx5/image/upload/v1708608990/Projects/Screenshot_2024-02-22_190322_ludqfc.png",
+        "https://res.cloudinary.com/ddjk9ccx5/image/upload/v1708609008/Projects/Screenshot_2024-02-22_190253_p4kbye.png",
+        // ... add more image URLs as needed
+    ],
+    features: [
+        "User Authentication with JWT",
+        "Job Listing and Application Management",
+        "Resume Upload and Parsing",
+        "Application Tracking System",
+        "Search Functionality",
+        "Employer Dashboard with Analytics",
+    ],
+    technologies: [
+        "React",
+        "Vite",
+        "React Hooks",
+        "React Icons",
+        "Axios",
+        "CSS",
+        "UUID",
+        "NodeJS",
+        "ExpressJS",
+        "MongoDB",
+        "Mongoose",
+        "Express Async Handler",
+        "Json Web Token",
+        "Bcryptjs",
+        "cloudnary",
+        "cookie-Parser",
+        "validator",
+        "Dotenv",
+        "Express-fileupload",
+        "Slugify",
+        "Cors",
+        
+        // ... add more technologies as needed
+    ],
+    title: "Job Seeking Web App",
+    description:
+        "A comprehensive job-seeking platform developed using the MERN stack. This web application facilitates user authentication, job listing, application management, resume parsing, and provides both job seekers and employers with feature-rich dashboards.",
+    category: "job-seeking",
+    liveLink: "https://job-seeking-app.example.com/",
+    codeLink: "https://github.com/RajAditya01/MERN-Job-Portal",
+}
+
 ];
 
 export default Items;

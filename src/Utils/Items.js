@@ -108,6 +108,11 @@ const Items = [
     img: [
         "https://res.cloudinary.com/ddjk9ccx5/image/upload/v1708608990/Projects/Screenshot_2024-02-22_190322_ludqfc.png",
         "https://res.cloudinary.com/ddjk9ccx5/image/upload/v1708609008/Projects/Screenshot_2024-02-22_190253_p4kbye.png",
+        "https://res.cloudinary.com/ddjk9ccx5/image/upload/v1708839490/Projects/cor7dedcjay8phj2ecqa.png",
+        "https://res.cloudinary.com/ddjk9ccx5/image/upload/v1708839515/Projects/pqutamstms9ncmgffhgz.png",
+        "https://res.cloudinary.com/ddjk9ccx5/image/upload/v1708839515/Projects/lzi9ncrjgpp6dj3clk3j.png",
+        "https://res.cloudinary.com/ddjk9ccx5/image/upload/v1708839489/Projects/r2vod8onbmfbqetfrryz.png",
+        "https://res.cloudinary.com/ddjk9ccx5/image/upload/v1708839489/Projects/e1roadm7rx0utl3q2vvu.png",
         // ... add more image URLs as needed
     ],
     features: [

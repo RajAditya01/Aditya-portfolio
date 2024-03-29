@@ -154,7 +154,59 @@ const Items = [
     category: "job-seeking",
     liveLink: "https://job-seeking-app.example.com/",
     codeLink: "https://github.com/RajAditya01/MERN-Job-Portal",
-}
+},
+{
+  id: 4,
+  mainImage: "https://res.cloudinary.com/ddjk9ccx5/image/upload/v1711713209/Projects/DiagnoTrack_c0qozx.png",
+  img: [
+    "https://res.cloudinary.com/ddjk9ccx5/image/upload/v1711713209/Projects/DiagnoTrack_c0qozx.png",
+    "https://res.cloudinary.com/ddjk9ccx5/image/upload/v1711713209/Projects/DiagnoTrack_c0qozx.png",
+    // Add more image URLs as needed
+  ],
+  features: [
+    "Assessment of software and hardware info",
+    "Sensor tests",
+    "Battery condition assessment",
+    "Generation of detailed reports",
+  ],
+  technologies: [
+    "Java",
+    "Android",
+    // Add more technologies as needed
+  ],
+  title: "DiagnoTrack",
+  description:
+    "Mobile diagnostic tool for Android devices developed using Java. It assesses software and hardware info, conducts sensor tests, evaluates battery conditions, and generates detailed reports for in-depth device performance analysis.",
+  category: "mobile",
+  codeLink: "https://github.com/RajAditya01/AndroidStudioProjects/tree/main/MegaToolsApp",
+},
+
+{
+  id: 5,
+  mainImage: "https://asset.cloudinary.com/ddjk9ccx5/ccb73d1889b2df5778e9f80cbcb4fae0",
+  img: [
+    "https://asset.cloudinary.com/ddjk9ccx5/ccb73d1889b2df5778e9f80cbcb4fae0",
+    "https://asset.cloudinary.com/ddjk9ccx5/ccb73d1889b2df5778e9f80cbcb4fae0",
+    // Add more image URLs as needed
+  ],
+  features: [
+    "User-friendly note creation",
+    "Organizing and managing notes efficiently",
+  ],
+  technologies: [
+    "Java",
+    "JSP-Servlet",
+    "Bootstrap",
+    "MySQL",
+    "Apache Tomcat",
+    // Add more technologies as needed
+  ],
+  title: "NoteNation",
+  description:
+    "NoteNation is a note-taking dynamic website developed using Java JSP-Servlet, Bootstrap, and MySQL, hosted on Apache Tomcat. It provides a user-friendly platform for creating, organizing, and managing notes efficiently.",
+  category: "web",
+  codeLink: "https://github.com/RajAditya01/Advance-java/tree/main/NoteNation",
+},
 
 ];
 

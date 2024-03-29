@@ -183,10 +183,10 @@ const Items = [
 
 {
   id: 5,
-  mainImage: "https://asset.cloudinary.com/ddjk9ccx5/ccb73d1889b2df5778e9f80cbcb4fae0",
+  mainImage: "https://res.cloudinary.com/ddjk9ccx5/image/upload/v1711713727/NoteNationNoteNation_jkkorc.png",
   img: [
-    "https://asset.cloudinary.com/ddjk9ccx5/ccb73d1889b2df5778e9f80cbcb4fae0",
-    "https://asset.cloudinary.com/ddjk9ccx5/ccb73d1889b2df5778e9f80cbcb4fae0",
+    "https://res.cloudinary.com/ddjk9ccx5/image/upload/v1711713727/NoteNationNoteNation_jkkorc.png",
+    "https://res.cloudinary.com/ddjk9ccx5/image/upload/v1711713727/NoteNationNoteNation_jkkorc.png",
     // Add more image URLs as needed
   ],
   features: [

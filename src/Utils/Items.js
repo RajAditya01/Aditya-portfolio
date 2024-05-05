@@ -208,6 +208,51 @@ const Items = [
   codeLink: "https://github.com/RajAditya01/Advance-java/tree/main/NoteNation",
 },
 
+{
+  id: 6,
+  mainImage: "https://res.cloudinary.com/ddjk9ccx5/image/upload/v1714878822/Screenshot_2024-05-04_180245_nlgsia.png",
+  img: [
+      "https://res.cloudinary.com/ddjk9ccx5/image/upload/v1714878805/Screenshot_2024-05-04_164630_m260xk.png",
+      "https://res.cloudinary.com/ddjk9ccx5/image/upload/v1714878843/Screenshot_2024-05-04_164645_vzlinn.png",
+      "https://res.cloudinary.com/ddjk9ccx5/image/upload/v1714878939/Screenshot_2024-05-05_084509_yvz4bh.png",
+      "https://res.cloudinary.com/ddjk9ccx5/image/upload/v1714878954/Screenshot_2024-05-05_084443_cuu7vt.png",
+  ],
+  features: [
+      "User Registration and Login",
+      "Authentication using JWT Tokens",
+      "Property Searching and Filtering",
+      "Pagination for Property Listings",
+      "CRUD operations (Property create, read, update, and delete)",
+      "Uploading Property Images to the Server",
+      "Favoriting Properties and Creating a Wishlist",
+      "Booking Property Tours and Appointments",
+      "Real-time Chat between Tenants and Landlords",
+      "Responsive Design for all Devices"
+  ],
+  technologies: [
+      "React.js",
+      "React Hooks",
+      "React Router",
+      "axios",
+      "CSS",
+      "Material-UI",
+      "Mapbox",
+      "Socket.io",
+      "Node.js",
+      "Express.js",
+      "MongoDB",
+      "Mongoose",
+      "jsonwebtoken",
+      "Bcrypt.js",
+      "Nodemailer"
+  ],
+  title: "Real RentalHub",
+  description: "Real RentalHub is a full-stack application designed to revolutionize the way people find and list properties for rent. With a sleek and intuitive interface, it provides users with a seamless experience for discovering, renting, and managing rental properties.",
+  category: "real-estate",
+  liveLink: "",
+  codeLink: "https://github.com/RajAditya01/RealRentalHub"
+},
+
 ];
 
 export default Items;

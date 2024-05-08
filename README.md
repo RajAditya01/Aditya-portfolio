@@ -36,7 +36,8 @@ This project was created using the following technologies.
  ##  Screenshots 
  ![image](https://github.com/RajAditya01/Aditya-portfolio/assets/101439988/72691717-ed3b-4213-ba4d-a22a3b669e15)
  ---- -
- ![image](https://github.com/RajAditya01/Aditya-portfolio/assets/101439988/42d1197c-2a12-4fcc-a533-4c597e8abe31)
+![image](https://github.com/RajAditya01/Aditya-portfolio/assets/101439988/8b831a24-36e5-4d1a-bee7-9dc40231782b)
+
 ---- -
 ![image](https://github.com/RajAditya01/Aditya-portfolio/assets/101439988/e890c72c-723a-4653-b4c1-c31ca315b1b1)
 

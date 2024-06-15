@@ -253,6 +253,74 @@ const Items = [
   codeLink: "https://github.com/RajAditya01/RealRentalHub"
 },
 
+{
+  id: 7,
+  mainImage: "https://res.cloudinary.com/ddjk9ccx5/image/upload/v1717585050/Projects/Screenshot_2024-06-05_162606_kg6fgy.png",
+  img: [
+    "https://res.cloudinary.com/ddjk9ccx5/image/upload/v1717585050/Projects/Screenshot_2024-06-05_162606_kg6fgy.png",
+    "https://res.cloudinary.com/ddjk9ccx5/image/upload/v1718438250/Screenshot_2024-06-15_132414_jqbb4b.png",
+    "https://res.cloudinary.com/ddjk9ccx5/image/upload/v1718439319/Screenshot_2024-06-15_134419_atqxc6.png",
+    "https://res.cloudinary.com/ddjk9ccx5/image/upload/v1718439318/Screenshot_2024-06-15_134234_z6m5m6.png",
+    "https://res.cloudinary.com/ddjk9ccx5/image/upload/v1718439318/Screenshot_2024-06-15_134148_lfngpp.png",
+    "https://res.cloudinary.com/ddjk9ccx5/image/upload/v1718439318/Screenshot_2024-06-15_134208_curyvz.png",
+  ],
+  features: [
+    "User registration and login",
+    "Authentication using JWT Tokens",
+    "Product browsing and filtering",
+    "Product details page with images and descriptions",
+    "Adding products to the shopping cart",
+    "Managing shopping cart items (update quantity, remove items)",
+    "Checkout process with order summary and payment integration",
+    "Real-time order tracking",
+    "Responsive design for all devices",
+  ],
+  technologies: [
+    "React.js",
+    "Next.js",
+    "TypeScript",
+    "Tailwind CSS",
+    "axios",
+    "Supabase",
+  ],
+  title: "E-commerce Website",
+  description: "Full-stack e-commerce platform built from scratch using ReactJS, Next.js with TypeScript, Tailwind CSS, and Supabase.",
+  category: "personal",
+  liveLink: "https://e-commerce-full-stack-lac.vercel.app/",
+  codeLink: "https://github.com/RajAditya01/E-commerce-Full-Stack",
+},
+
+{
+  id: 8,
+  mainImage: "https://res.cloudinary.com/ddjk9ccx5/image/upload/v1717585473/Projects/Screenshot_2024-05-25_113903_vdh5cr.png",
+  img: [
+    "https://res.cloudinary.com/ddjk9ccx5/image/upload/v1717585473/Projects/Screenshot_2024-05-25_113903_vdh5cr.png",
+    "https://res.cloudinary.com/ddjk9ccx5/image/upload/v1717585469/Projects/Screenshot_2024-05-25_114430_t3wcky.png",
+    "https://res.cloudinary.com/ddjk9ccx5/image/upload/v1717585469/Projects/Screenshot_2024-05-25_114500_exodde.png",
+    "https://res.cloudinary.com/ddjk9ccx5/image/upload/v1717585300/Projects/Screenshot_2024-05-25_114430_lfxkzm.png",
+  ],
+  features: [
+    "Real-time messaging: Users can chat with each other in real-time.",
+    "User authentication: Secure user authentication system implemented for login and registration.",
+    "Responsive design: The application is optimized for various screen sizes and devices.",
+    "MongoDB database: Data is stored and managed using MongoDB, a popular NoSQL database solution.",
+  ],
+  technologies: [
+    "Socket.io",
+    "MongoDB",
+    "Express.js",
+    "React.js",
+    "Node.js",
+    "DaisyUI",
+    "Tailwind CSS",
+  ],
+  title: "ChatterBox",
+  description: "ChatterBox is a real-time chat application built using Socket.io and the MERN stack (MongoDB, Express.js, React.js, Node.js). It utilizes DaisyUI and Tailwind CSS for a sleek and responsive user interface.",
+  category: "personal",
+  liveLink: "https://chatterbox-app.vercel.app/",
+  codeLink: "https://github.com/RajAditya01/ChatterBox",
+},
+
 ];
 
 export default Items;

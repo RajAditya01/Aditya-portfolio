@@ -17,7 +17,7 @@ const ProjectDetails = () => {
 
   const settings = {
     dots: true,
-    arrows: false,
+    arrows: false,       
     infinite: true,
     speed: 500,
     slidesToScroll: 1,

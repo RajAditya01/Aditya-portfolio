@@ -54,7 +54,7 @@ const Items = [
 
   {
     id: 2,
-    mainImage: "https://res.cloudinary.com/ddjk9ccx5/image/upload/v1707568969/Projects/Screenshot_2024-02-10_180541_hxktlm.png",
+    mainImage: "https://res.cloudinary.com/ddjk9ccx5/image/upload/v1718987942/Screenshot_2024-06-21_220822_atmqd5.png",
     img: [
       "https://res.cloudinary.com/ddjk9ccx5/image/upload/v1707568969/Projects/Screenshot_2024-02-10_180541_hxktlm.png",
       "https://res.cloudinary.com/ddjk9ccx5/image/upload/v1707568975/Projects/Screenshot_2024-02-10_180324_colcso.png",
@@ -97,7 +97,7 @@ const Items = [
     title: "Study Notion",
     description:
       "ED Tech web application developed using the MERN stack for secure user authentication, course management, progress tracking, payment integration, and a feature-rich instructor dashboard.",
-    category: "educational",
+    category: "personal",
     liveLink: "https://study-notion-app.example.com/",
     codeLink: "https://github.com/RajAditya01/StudyNotion-An-Online-Education-Platform",
   },
@@ -177,7 +177,7 @@ const Items = [
   title: "DiagnoTrack",
   description:
     "Mobile diagnostic tool for Android devices developed using Java. It assesses software and hardware info, conducts sensor tests, evaluates battery conditions, and generates detailed reports for in-depth device performance analysis.",
-  category: "mobile",
+    category: "personal",
   codeLink: "https://github.com/RajAditya01/AndroidStudioProjects/tree/main/MegaToolsApp",
 },
 
@@ -204,7 +204,7 @@ const Items = [
   title: "NoteNation",
   description:
     "NoteNation is a note-taking dynamic website developed using Java JSP-Servlet, Bootstrap, and MySQL, hosted on Apache Tomcat. It provides a user-friendly platform for creating, organizing, and managing notes efficiently.",
-  category: "web",
+    category: "personal",
   codeLink: "https://github.com/RajAditya01/Advance-java/tree/main/NoteNation",
 },
 
@@ -255,7 +255,7 @@ const Items = [
 
 {
   id: 7,
-  mainImage: "https://res.cloudinary.com/ddjk9ccx5/image/upload/v1717585050/Projects/Screenshot_2024-06-05_162606_kg6fgy.png",
+  mainImage: "https://res.cloudinary.com/ddjk9ccx5/image/upload/v1718987627/Screenshot_2024-06-21_220323_azd3p6.png",
   img: [
     "https://res.cloudinary.com/ddjk9ccx5/image/upload/v1717585050/Projects/Screenshot_2024-06-05_162606_kg6fgy.png",
     "https://res.cloudinary.com/ddjk9ccx5/image/upload/v1718438250/Screenshot_2024-06-15_132414_jqbb4b.png",
@@ -292,7 +292,7 @@ const Items = [
 
 {
   id: 8,
-  mainImage: "https://res.cloudinary.com/ddjk9ccx5/image/upload/v1717585473/Projects/Screenshot_2024-05-25_113903_vdh5cr.png",
+  mainImage: "https://res.cloudinary.com/ddjk9ccx5/image/upload/v1718987222/Screenshot_2024-06-21_215643_q2oehp.png",
   img: [
     "https://res.cloudinary.com/ddjk9ccx5/image/upload/v1717585473/Projects/Screenshot_2024-05-25_113903_vdh5cr.png",
     "https://res.cloudinary.com/ddjk9ccx5/image/upload/v1717585469/Projects/Screenshot_2024-05-25_114430_t3wcky.png",
@@ -321,6 +321,32 @@ const Items = [
   codeLink: "https://github.com/RajAditya01/ChatterBox",
 },
 
+{
+  id: 9,
+  mainImage: "https://res.cloudinary.com/ddjk9ccx5/image/upload/v1718986803/Screenshot_2024-06-21_214943_kczj2i.png",
+  img: [
+    "https://res.cloudinary.com/ddjk9ccx5/image/upload/v1718986439/Screenshot_2024-06-21_214130_q2m9va.png",
+    "https://res.cloudinary.com/ddjk9ccx5/image/upload/v1718986468/Screenshot_2024-06-21_214150_wburr6.png",
+  ],
+  features: [
+    "High-Quality Video Calls",
+    "Screen Sharing",
+    "Chat",
+    "Group Calls",
+    "End-to-End Encryption",
+  ],
+  technologies: [
+    "React",
+    "Redux",
+    "ZEGOCLOUD SDK",
+    "MongoDB (optional for user management)",
+  ],
+  title: "VideoCall App",
+  description: "VideoCall App is a user-friendly video communication application built with React and powered by ZEGOCLOUD. It supports high-quality video calls, real-time chat, and screen sharing functionalities.",
+  category: "personal",
+  liveLink: "https://videocall-app-tau.vercel.app/",
+  codeLink: "https://github.com/RajAditya01/videocall-app",
+},
 ];
 
 export default Items;

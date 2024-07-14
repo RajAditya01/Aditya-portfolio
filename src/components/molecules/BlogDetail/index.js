@@ -34,7 +34,7 @@ const BlogDetail = () => {
 
   return (
     <div className="mt-20">
-      <h1 className="t text-center text-4xl">{blog?.title}</h1>
+      <h1 className="text-center text-4xl">{blog?.title}</h1>
       <div className="text-center my-8">
         <LazyLoadImage
           placeholderSrc={placeholderImage}
@@ -68,7 +68,7 @@ const BlogDetail = () => {
                 <SiInstagram />
               </span>
               <a
-                href={blog?.instagram_link}
+                href="https://www.instagram.com/your_instagram_username" // Add your Instagram link here
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-blue-600 hover:underline flex items-center"
@@ -81,7 +81,7 @@ const BlogDetail = () => {
                 <SiLinkedin />
               </span>
               <a
-                href={blog?.linkedin_link}
+                href="https://www.linkedin.com/in/your_linkedin_username" // Add your LinkedIn link here
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-blue-600 hover:underline flex items-center"

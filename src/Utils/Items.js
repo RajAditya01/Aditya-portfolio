@@ -47,7 +47,7 @@ const Items = [
     title: "Mern Blog",
     description:
       "Fullstack open source blogging application made with MongoDB, Express, React & Nodejs (MERN)",
-    category: "personal",
+    category: "MERN",
     liveLink: "https://full-stack-blogs.vercel.app/",
     codeLink: "https://github.com/RajAditya01/FullStack-Blogs?tab=readme-ov-file",
   },
@@ -151,7 +151,7 @@ const Items = [
     title: "Job Seeking Web App",
     description:
         "A comprehensive job-seeking platform developed using the MERN stack. This web application facilitates user authentication, job listing, application management, resume parsing, and provides both job seekers and employers with feature-rich dashboards.",
-    category: "job-seeking",
+    category: "MERN",
     liveLink: "https://job-seeking-app.example.com/",
     codeLink: "https://github.com/RajAditya01/MERN-Job-Portal",
 },
@@ -177,7 +177,7 @@ const Items = [
   title: "DiagnoTrack",
   description:
     "Mobile diagnostic tool for Android devices developed using Java. It assesses software and hardware info, conducts sensor tests, evaluates battery conditions, and generates detailed reports for in-depth device performance analysis.",
-    category: "personal",
+    category: "ANDROID",
   codeLink: "https://github.com/RajAditya01/AndroidStudioProjects/tree/main/MegaToolsApp",
 },
 
@@ -204,7 +204,7 @@ const Items = [
   title: "NoteNation",
   description:
     "NoteNation is a note-taking dynamic website developed using Java JSP-Servlet, Bootstrap, and MySQL, hosted on Apache Tomcat. It provides a user-friendly platform for creating, organizing, and managing notes efficiently.",
-    category: "personal",
+    category: "JAVA",
   codeLink: "https://github.com/RajAditya01/Advance-java/tree/main/NoteNation",
 },
 
@@ -248,7 +248,7 @@ const Items = [
   ],
   title: "Real RentalHub",
   description: "Real RentalHub is a full-stack application designed to revolutionize the way people find and list properties for rent. With a sleek and intuitive interface, it provides users with a seamless experience for discovering, renting, and managing rental properties.",
-  category: "real-estate",
+  category: "MERN",
   liveLink: "",
   codeLink: "https://github.com/RajAditya01/RealRentalHub"
 },
@@ -285,7 +285,7 @@ const Items = [
   ],
   title: "E-commerce Website",
   description: "Full-stack e-commerce platform built from scratch using ReactJS, Next.js with TypeScript, Tailwind CSS, and Supabase.",
-  category: "personal",
+  category: "MERN",
   liveLink: "https://e-commerce-full-stack-lac.vercel.app/",
   codeLink: "https://github.com/RajAditya01/E-commerce-Full-Stack",
 },
@@ -316,7 +316,7 @@ const Items = [
   ],
   title: "ChatterBox",
   description: "ChatterBox is a real-time chat application built using Socket.io and the MERN stack (MongoDB, Express.js, React.js, Node.js). It utilizes DaisyUI and Tailwind CSS for a sleek and responsive user interface.",
-  category: "personal",
+  category: "MERN",
   liveLink: "https://chatterbox-app.vercel.app/",
   codeLink: "https://github.com/RajAditya01/ChatterBox",
 },
@@ -343,7 +343,7 @@ const Items = [
   ],
   title: "VideoCall App",
   description: "VideoCall App is a user-friendly video communication application built with React and powered by ZEGOCLOUD. It supports high-quality video calls, real-time chat, and screen sharing functionalities.",
-  category: "personal",
+  category: "MERN",
   liveLink: "https://videocall-app-tau.vercel.app/",
   codeLink: "https://github.com/RajAditya01/videocall-app",
 },

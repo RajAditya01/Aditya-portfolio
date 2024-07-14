@@ -77,35 +77,35 @@ const Project = () => {
               All
             </button>
             <button
-              className={`btn btn-sm bg-primary border-2 border-primary text-white hover:bg-transparent hover:border-primary duration-300 mx-3 my-3 sm:my-0 ${activeBtn === "business" && "active-btn"
+              className={`btn btn-sm bg-primary border-2 border-primary text-white hover:bg-transparent hover:border-primary duration-300 mx-3 my-3 sm:my-0 ${activeBtn === "MERN" && "active-btn"
                 }`}
               onClick={() => {
-                setActiveBtn("business");
-                filterItem("business");
+                setActiveBtn("MERN");
+                filterItem("MERN");
               }}
             >
-              Business
+              MERN
             </button>
             <button
-              className={`btn btn-sm bg-primary border-2 border-primary text-white hover:bg-transparent hover:border-primary duration-300 mx-3 my-3 sm:my-0 ${activeBtn === "personal" && "active-btn"
+              className={`btn btn-sm bg-primary border-2 border-primary text-white hover:bg-transparent hover:border-primary duration-300 mx-3 my-3 sm:my-0 ${activeBtn === "JAVA" && "active-btn"
                 }`}
               onClick={() => {
-                setActiveBtn("personal");
-                filterItem("personal");
+                setActiveBtn("JAVA");
+                filterItem("JAVA");
               }}
             >
-              Personal
+              JAVA
             </button>
             <button
             className={`btn btn-sm bg-primary border-2 border-primary text-white hover:bg-transparent hover:border-primary duration-300 mx-3 my-3 sm:my-0 ${
-              activeBtn === "game" && "active-btn"
+              activeBtn === "ANDROID" && "active-btn"
             }`}
             onClick={() => {
-              setActiveBtn("game");
-              filterItem("game");
+              setActiveBtn("ANDROID");
+              filterItem("ANDROID");
             }}
           >
-            Game
+            ANDROID
           </button>
           </div>
 

@@ -20,7 +20,7 @@ const Reviews = [
   {
     id: 3,
     name: "Aditya Tyagi",
-    bio: "Front-end Developer",
+    bio: "SDE at Zypp Electric",
     img: "https://res.cloudinary.com/ddjk9ccx5/image/upload/v1707539438/Projects/c0fi3kps0ixu1apbbyr1.jpg",
     description:
       "He is my partner. We work together. When I fall into an error or any other problem he support me always.",

@@ -347,6 +347,72 @@ const Items = [
   liveLink: "https://videocall-app-tau.vercel.app/",
   codeLink: "https://github.com/RajAditya01/videocall-app",
 },
+
+{
+  "id": 10,
+  "mainImage": "https://res.cloudinary.com/ddjk9ccx5/image/upload/v1727008857/TasteOfTirhut/brulwyrgzpf57pzp9kxm.png",
+  "img": [
+    "https://res.cloudinary.com/ddjk9ccx5/image/upload/v1727008868/TasteOfTirhut/jy8bor2hxizfuoqbwhrn.png",
+    "https://res.cloudinary.com/ddjk9ccx5/image/upload/v1727008857/TasteOfTirhut/brulwyrgzpf57pzp9kxm.png"
+  ],
+  "features": [
+    "Menu Display",
+    "Online Ordering",
+    "Table Booking",
+    "User Reviews",
+    "Discount & Offers"
+  ],
+  "technologies": [
+    "React",
+    "Node.js",
+    "MongoDB",
+    "Redux",
+    "TypeScript - Strong typing for safer and more manageable code.",
+    "Schema Design - Best practices for structuring your database.",
+    "ShadCN UI & Tailwind CSS - Create a responsive, modern, and beautiful user interface.",
+    "Advanced Authentication - Implement login, signup, logout, 6-digit token-based verification, password recovery, and more.",
+    "Role-Based Accounts - Secure and manage different user roles.",
+    "Zod - Robust schema validation and error handling.",
+    "Zustand - Simple and scalable state management.",
+    "Stripe Payment Gateway - Integrate secure online payments.",
+    "Stripe Webhooks - Handle events with real-time updates.",
+    "Mailtrap for Emails - Send and test emails efficiently.",
+    "Advanced Searching - Implement powerful search functionalities.",
+    "Loading Skeletons - Enhance UX with elegant loading states."
+  ],
+  "title": "TasteOfTirhut",
+  "description": "TasteOfTirhut is an intuitive restaurant app designed for seamless online ordering, table bookings, and menu display. Users can browse the menu, place orders, book tables, and leave reviews. It also supports discount and promotional offers.",
+  "category": "MERN",
+  "liveLink": "https://tasteoftirhut.vercel.app/",
+  "codeLink": "https://github.com/RajAditya01/TasteOfTirhut"
+},
+{
+  "id": 11,
+  "mainImage": "https://res.cloudinary.com/ddjk9ccx5/image/upload/v1727007776/SwasthyaSathi/knb5y2xpraomtvimewna.png",
+  "img": [
+    "https://res.cloudinary.com/ddjk9ccx5/image/upload/v1727007777/SwasthyaSathi/fwsogyu2jihihsh9xm7v.png",
+    "https://res.cloudinary.com/ddjk9ccx5/image/upload/v1718994637/PrescriptoAppointments_alkjdi.png",
+    "https://res.cloudinary.com/ddjk9ccx5/image/upload/v1727007793/SwasthyaSathi/qr7ujfwulmluingkrzga.png"
+  ],
+  "features": [
+    "Doctor Search",
+    "Online Appointments",
+    "Prescription Upload",
+    "Patient-Doctor Chat",
+    "Appointment Reminders"
+  ],
+  "technologies": [
+    "React",
+    "Node.js",
+    "Express",
+    "MongoDB"
+  ],
+  "title": "Prescripto",
+  "description": "Prescripto is an online platform that allows users to search for doctors, book appointments, and upload prescriptions. It also features patient-doctor chats and appointment reminders for a seamless healthcare experience.",
+  "category": "MERN",
+  "liveLink": "https://swasthya-sathi-git-main-aditya-rajs-projects-23992e18.vercel.app/",
+  "codeLink": "https://github.com/RajAditya01/SwasthyaSathi"
+},
 ];
 
 export default Items;

@@ -104,7 +104,7 @@ const About = () => {
                 <span className="mr-2 text-primary">Address : </span>MMDU Mullana Ambala Haryana
               </h2>
               <a
-                href="https://drive.google.com/file/d/1NaHkVSOj101Kd1Lw8e9344r9BTQQuHT0/view?usp=sharing?usp=drive_link"
+                href="https://drive.google.com/file/d/1tBMM3MjdwTaMXpJDXUwLfqeUiz0XuFAq/view?usp=sharing?usp=drive_link"
                 target="blank"
               >
                 <div className="flex justify-center md:justify-start translate-y-[60%] sm:translate-y-[-0%]">

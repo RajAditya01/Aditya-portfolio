@@ -29,6 +29,7 @@ const Education = () => {
           />
         </div>
         {/* B-tech in CSE */}
+        
         <div className="p-6 w-full bg-[#313131] bg-opacity-90 backdrop-blur-lg rounded-lg shadow-lg inline-block hover:shadow-primary duration-300 cursor-pointer">
           <h2 className="text-2xl font-semibold text-white mb-4">
           Bachelor of Technology in CSE
@@ -39,6 +40,16 @@ const Education = () => {
           <p className="text-gray-300">2021 - 2025</p>
           <p className="text-gray-300">CGPA: 9.03/10(Current)</p>
           {/* Add any additional information about your B-Tech here */}
+          <div className="mt-4">
+            <h3 className="text-xl font-semibold text-white">Core Fundamentals</h3>
+            <ul className="list-disc list-inside text-gray-300">
+              <li>DBMS</li>
+              <li>Software Engineering</li>
+              <li>Operating System</li>
+              <li>Computer Networks</li>
+              <li>Data Structures and Algorithms</li>
+            </ul>
+          </div>
         </div>
       </div>
     </div>

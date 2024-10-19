@@ -25,7 +25,6 @@ export default function Navbar() {
     { title: "About", link: "/about", icon: <RiFolderInfoFill /> },
     { title: "Project", link: "/project", icon: <MdWork /> },
     { title: "Contact", link: "/contact", icon: <RiContactsBook2Fill /> },
-    { title: "Blog", link: "/blog", icon: <ImBlog /> },
   ];
   const activeLink = ({ isActive }) => {
     return {

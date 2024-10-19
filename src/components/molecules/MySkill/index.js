@@ -52,7 +52,6 @@ const MySkill = () => {
     { title: "Bootstrap", icon: <FaBootstrap className="text-indigo-600" /> },
     { title: "ExpressJS", icon: <SiExpress className="text-neutral" /> },
     { title: "TailwindCSS", icon: <SiTailwindcss className="text-cyan-400" /> },
-
   ];
 
   const tools = [
@@ -91,12 +90,12 @@ const MySkill = () => {
       <h1 className="text-4xl font-semibold drop-shadow-md text-center mb-8">
         My <span className="text-primary">Skills</span>
       </h1>
-      <div className="flex flex-col md:flex-row items-center justify-evenly my-8">
-        <div>
+      <div className="flex flex-col lg:flex-row items-center justify-evenly my-8 overflow-hidden w-full">
+        <div className="overflow-hidden w-full lg:w-auto  px-5 sm:px-0">
           <h2 className="text-cyan-500 text-xl font-semibold">Languages:</h2>
-          <div className="flex overflow-hidden w-full max-w-xl mb-4">
+          <div className="flex mb-4 max-w-full overflow-hidden">
             <div className="animate animate-time-1 flex">
-              {languages?.map((skill, index) => (
+              {Array.from({ length: 4 }, (_, i) =>languages?.map((skill, index) => (
                 <div key={index} className="text-center m-3">
                   <div
                     className="rounded-lg h-12 w-12 hover:-translate-y-2 duration-300 flex items-center justify-center text-3xl cursor-pointer shadow-lg hover:shadow-xl bg-[#313131] hover:bg-[#262626] mx-auto"
@@ -105,26 +104,15 @@ const MySkill = () => {
                     {skill?.icon}
                   </div>
                 </div>
-              ))}
-              {/* Duplicate the items to create a seamless loop */}
-              {languages?.map((skill, index) => (
-                <div key={`duplicate-${index}`} className="text-center m-3">
-                  <div
-                    className="rounded-lg h-12 w-12 hover:-translate-y-2 duration-300 flex items-center justify-center text-3xl cursor-pointer shadow-lg hover:shadow-xl bg-[#313131] hover:bg-[#262626] mx-auto"
-                    title={skill.title}
-                  >
-                    {skill?.icon}
-                  </div>
-                </div>
-              ))}
+              )))}
             </div>
           </div>
           <h2 className="text-cyan-500 text-xl font-semibold">
             Library & Frameworks:
           </h2>
-          <div className="flex overflow-hidden w-full max-w-xl mb-4">
+          <div className="flex mb-4 max-w-full overflow-hidden">
             <div className="animate animate-time-2 flex">
-              {frameworks?.map((skill, index) => (
+              {Array.from({ length: 4 }, (_, i) =>frameworks?.map((skill, index) => (
                 <div key={index} className="text-center m-3">
                   <div
                     className="rounded-lg h-12 w-12 hover:-translate-y-2 duration-300 flex items-center justify-center text-3xl cursor-pointer shadow-lg hover:shadow-xl bg-[#313131] hover:bg-[#262626] mx-auto"
@@ -133,26 +121,15 @@ const MySkill = () => {
                     {skill?.icon}
                   </div>
                 </div>
-              ))}
-              {/* Duplicate the items to create a seamless loop */}
-              {frameworks?.map((skill, index) => (
-                <div key={`duplicate-${index}`} className="text-center m-3">
-                  <div
-                    className="rounded-lg h-12 w-12 hover:-translate-y-2 duration-300 flex items-center justify-center text-3xl cursor-pointer shadow-lg hover:shadow-xl bg-[#313131] hover:bg-[#262626] mx-auto"
-                    title={skill.title}
-                  >
-                    {skill?.icon}
-                  </div>
-                </div>
-              ))}
+              )))}
             </div>
           </div>
           <h2 className="text-cyan-500 text-xl font-semibold">
             Tools & Technologies:
           </h2>
-          <div className="flex overflow-hidden w-full max-w-xl mb-4">
+          <div className="flex mb-4 max-w-full overflow-hidden">
             <div className="animate animate-time-3 flex">
-              {tools?.map((skill, index) => (
+              {Array.from({ length: 3 }, (_, i) =>tools?.map((skill, index) => (
                 <div key={index} className="text-center m-3">
                   <div
                     className="rounded-lg h-12 w-12 hover:-translate-y-2 duration-300 flex items-center justify-center text-3xl cursor-pointer shadow-lg hover:shadow-xl bg-[#313131] hover:bg-[#262626] mx-auto"
@@ -161,23 +138,15 @@ const MySkill = () => {
                     {skill?.icon}
                   </div>
                 </div>
-              ))}
-              {/* Duplicate the items to create a seamless loop */}
-              {tools?.map((skill, index) => (
-                <div key={`duplicate-${index}`} className="text-center m-3">
-                  <div
-                    className="rounded-lg h-12 w-12 hover:-translate-y-2 duration-300 flex items-center justify-center text-3xl cursor-pointer shadow-lg hover:shadow-xl bg-[#313131] hover:bg-[#262626] mx-auto"
-                    title={skill.title}
-                  >
-                    {skill?.icon}
-                  </div>
-                </div>
-              ))}
+              )))}
             </div>
           </div>
         </div>
-        <div>
-          <Lottie options={defaultOptions} height={400} width={360} />
+        <div className="mx-auto lg:ml-auto w-full">
+          <Lottie 
+          options={defaultOptions} 
+            className="mx-auto lg:mr-auto w-full" 
+            />
         </div>
       </div>
     </div>

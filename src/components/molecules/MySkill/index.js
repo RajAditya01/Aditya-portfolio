@@ -7,41 +7,63 @@ import {
   FaReact,
   FaBootstrap,
   FaGithub,
+  FaJava,
+  FaPython,
+  FaGit,
 } from "react-icons/fa";
 import {
   SiJavascript,
+  SiTypescript,
   SiTailwindcss,
   SiExpress,
   SiMongodb,
+  SiPostgresql,
   SiAdobephotoshop,
   SiFirebase,
+  SiMysql,
+  SiPostman,
+  SiFigma,
+  SiNodedotjs,
+  SiNpm,
+  SiVisualstudiocode,
 } from "react-icons/si";
+import { CgCPlusPlus } from "react-icons/cg";
 import man from "../../../assets/man.json";
 
 const MySkill = () => {
   const languages = [
+    { title: "C", icon: <CgCPlusPlus className="text-blue-500" /> },
+    { title: "C++", icon: <CgCPlusPlus className="text-blue-400" /> },
+    { title: "JavaScript", icon: <SiJavascript className="text-yellow-500" /> },
+    { title: "TypeScript", icon: <SiTypescript className="text-blue-500" /> },
+    { title: "Java", icon: <FaJava className="text-red-600" /> },
+    { title: "Python", icon: <FaPython className="text-blue-400" /> },
     { title: "HTML", icon: <FaHtml5 className="text-orange-600" /> },
     { title: "CSS", icon: <FaCss3Alt className="text-blue-400" /> },
-    {
-      title: "JavaScript",
-      icon: <SiJavascript className="text-yellow-500 rounded" />,
-    },
-    { title: "NodeJS", icon: <FaNodeJs className="text-green-600" /> },
   ];
+
   const frameworks = [
     { title: "React", icon: <FaReact className="text-cyan-400" /> },
     { title: "Bootstrap", icon: <FaBootstrap className="text-indigo-600" /> },
-    { title: "Tailwind", icon: <SiTailwindcss className="text-cyan-400" /> },
+    { title: "TailwindCSS", icon: <SiTailwindcss className="text-cyan-400" /> },
     { title: "ExpressJS", icon: <SiExpress className="text-neutral" /> },
+    { title: "NodeJS", icon: <SiNodedotjs className="text-green-600" /> },
   ];
+
   const tools = [
     { title: "MongoDB", icon: <SiMongodb className="text-green-500" /> },
+    { title: "PostgreSQL", icon: <SiPostgresql className="text-blue-600" /> },
+    { title: "Firebase", icon: <SiFirebase className="text-yellow-400" /> },
     { title: "GitHub", icon: <FaGithub className="text-black" /> },
-
-    {
-      title: "Photoshop",
-      icon: <SiAdobephotoshop className="text-cyan-800" />,
-    },
+    { title: "Git", icon: <FaGit className="text-orange-600" /> },
+    { title: "MySQL", icon: <SiMysql className="text-blue-500" /> },
+    { title: "Netlify", icon: <SiFirebase className="text-green-400" /> },
+    { title: "Photoshop", icon: <SiAdobephotoshop className="text-cyan-800" /> },
+    { title: "Figma", icon: <SiFigma className="text-purple-600" /> },
+    { title: "Visual Studio Code", icon: <SiVisualstudiocode className="text-blue-600" /> },
+    { title: "Postman", icon: <SiPostman className="text-orange-600" /> },
+    { title: "Vercel", icon: <SiFirebase className="text-black" /> },
+    { title: "NPM", icon: <SiNpm className="text-red-600" /> },
   ];
 
   const defaultOptions = {
@@ -52,13 +74,13 @@ const MySkill = () => {
       preserveAspectRatio: "xMidYMid slice",
     },
   };
+
   return (
     <div className="pt-24">
       <h1 className="text-4xl font-semibold drop-shadow-md text-center mb-8">
         My <span className="text-primary">Skills</span>
       </h1>
       <div className="flex flex-col md:flex-row items-center justify-evenly my-8">
-
         <div>
           <h2 className="text-cyan-500 text-xl font-semibold">Languages:</h2>
           <div className="flex flex-wrap mb-4">

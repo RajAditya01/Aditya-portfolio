@@ -1,0 +1,26 @@
+.animate {
+    display: flex;
+    animation: scroll linear infinite;
+  }
+  
+  @keyframes scroll {
+    0% {
+      transform: translateX(0);
+    }
+    100% {
+      transform: translateX(-50%);
+    }
+  }
+  
+
+  .animate-time-1{
+    animation-duration: 6s;
+  }
+
+  .animate-time-2{
+    animation-duration: 8s;
+  }
+
+  .animate-time-3{
+    animation-duration: 5s;
+  }
